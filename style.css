@@ -11,9 +11,21 @@ main {
 
 #toDoList {
   margin: 50px auto;
-max-width: 100px;
+max-width: 150px;
 }
 
 button {
   border-radius: 40px;
+      margin: 0 20px;
+}
+
+#toDoList button {
+  display: none;
+  transition: .5s;
+  margin: 0;
+}
+
+#toDoList li:hover button {
+  display: inline;
+  transition: .5s;
 }
