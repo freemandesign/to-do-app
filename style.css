@@ -1,0 +1,19 @@
+body {
+  background: url("background-image.jpg");
+      background-size: cover;
+}
+
+main {
+  text-align: center;
+  padding-top: 200px;
+  color: white;
+}
+
+#toDoList {
+  margin: 50px auto;
+max-width: 100px;
+}
+
+button {
+  border-radius: 40px;
+}
