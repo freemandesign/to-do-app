@@ -1,6 +1,6 @@
 body {
   background: url("background-image.jpg");
-      background-size: cover;
+  background-size: cover;
 }
 
 main {
@@ -11,12 +11,12 @@ main {
 
 #toDoList {
   margin: 50px auto;
-max-width: 150px;
+  max-width: 150px;
 }
 
 button {
   border-radius: 40px;
-      margin: 0 20px;
+  margin: 0 20px;
 }
 
 #toDoList button {
